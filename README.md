@@ -1,7 +1,7 @@
 # 👋 sup, i'm mal
 
 frontend wizard (HTML/CSS/JS)  
-breaks stuff so it works™
+breaks stuff so it works
 
 ---
 
@@ -19,15 +19,11 @@ breaks stuff so it works™
 - **image → text:** https://itt.bbnerds.com/  
   *images confess everything* 👀
 
+- - **image → text:** https://tuff.eagler.cc/  
+  *very tuff* 😎
 ---
 
 ## ⚠️ warning
 - may contain bad jokes  
 - css did a thing  
 - works on my machine™ 💀
-
----
-
-**meme break:**  
-![meme](https://i.imgflip.com/5b6x3b.jpg)  
-*me debugging JS*
