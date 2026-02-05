@@ -19,7 +19,7 @@ breaks stuff so it works
 - **image → text:** https://itt.bbnerds.com/  
   *images confess everything* 👀
 
--  **Tuff-Client-Launcher:** https://tuff.eagler.cc/
+-  **tuff-client launcher:** https://tuff.eagler.cc/
   *very tuff* 😎
 ---
 
