@@ -19,7 +19,7 @@ breaks stuff so it works
 - **image → text:** https://itt.bbnerds.com/  
   *images confess everything* 👀
 
-- - **image → text:** https://tuff.eagler.cc/  
+-  **image → text:** https://tuff.eagler.cc/  
   *very tuff* 😎
 ---
 
