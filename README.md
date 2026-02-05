@@ -19,7 +19,7 @@ breaks stuff so it works
 - **image → text:** https://itt.bbnerds.com/  
   *images confess everything* 👀
 
--  **image → text:** https://tuff.eagler.cc/  
+-  **Tuff-Client-Launcher:** https://tuff.eagler.cc/
   *very tuff* 😎
 ---
 
@@ -27,3 +27,6 @@ breaks stuff so it works
 - may contain bad jokes  
 - css did a thing  
 - works on my machine™ 💀
+
+---
+**😭I did not create TuffClient😭**
