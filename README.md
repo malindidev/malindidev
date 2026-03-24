@@ -2,15 +2,14 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=malindidev&hide_border=true)](https://git.io/streak-stats)
 
-frontend wizard (HTML/CSS/JS)  
-breaks stuff so it works
+I'm just him
 
 ---
 
 ## 🧨 projects
 
 - **bio:** https://mal.bbnerds.com/  
-  *me, but on the internet* 🤷‍♂️
+  *sick right?* 🤷‍♂️
 
 - **one-time file sharing:** https://one.bbnerds.com/  
   *upload it. share it. gone forever.* 💥
@@ -23,12 +22,15 @@ breaks stuff so it works
 
 -  **tuff-client launcher:** https://tuff.eagler.cc/
   *very tuff* 😎
+  
+- **link shortener:** https://link.bbnerds.com/  
+  *shorten links, share everywhere* 🔗
 ---
 
 ## ⚠️ warning
-- may contain bad jokes  
-- css did a thing  
-- works on my machine™ 💀
+- I'm just him
 
 ---
 **😭I did not create TuffClient😭**
+
+**snel was here**
