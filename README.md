@@ -1,5 +1,4 @@
 # 👋 sup, i'm mal
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=malindidev&hide_border=true)](https://git.io/streak-stats)
 
 I'm just him
