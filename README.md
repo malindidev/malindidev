@@ -1,11 +1,12 @@
 # 👋 sup, i'm mal
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=malindidev&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malindidev&hide_border=true)](https://git.io/streak-stats)
 
 I'm just him
 
 ---
 
-## 🧨 projects
+## 🧨 Projects
 
 - **bio:** https://mal.bbnerds.com/  
   *sick right?* 🤷‍♂️
@@ -19,17 +20,20 @@ I'm just him
 - **image → text:** https://itt.bbnerds.com/  
   *images confess everything* 👀
 
--  **tuff-client launcher:** https://tuff.eagler.cc/
+- **tuff-client launcher:** https://tuff.eagler.cc/  
   *very tuff* 😎
-  
+
 - **link shortener:** https://link.bbnerds.com/  
   *shorten links, share everywhere* 🔗
+
 ---
 
-## ⚠️ warning
+## ⚠️ Warning
+
 - I'm just him
 
 ---
-**😭I did not create TuffClient😭**
+
+**😭 I did not create TuffClient 😭**  
 
 **snel was here**
