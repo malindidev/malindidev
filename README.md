@@ -6,34 +6,6 @@ I'm just him
 
 ---
 
-## 🧨 Projects
-
-- **bio:** https://mal.bbnerds.com/  
-  *sick right?* 🤷‍♂️
-
-- **one-time file sharing:** https://one.bbnerds.com/  
-  *upload it. share it. gone forever.* 💥
-
-- **encryption tool:** https://cg.bbnerds.com/  
-  *turn text into gibberish and back. spy mode activated* 🕵️‍♂️
-
-- **image → text:** https://itt.bbnerds.com/  
-  *images confess everything* 👀
-
-- **tuff-client launcher:** https://tuff.eagler.cc/  
-  *very tuff* 😎
-
-- **link shortener:** https://link.bbnerds.com/  
-  *shorten links, share everywhere* 🔗
-
----
-
-## ⚠️ Warning
-
-- I'm just him
-
----
-
-**😭 I did not create TuffClient 😭**  
+EaglerNodes - https://eagler.cc
 
 **snel was here**
