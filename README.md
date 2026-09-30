@@ -24,6 +24,7 @@ I'm just him. I build and run servers, Discord bots and small privacy-friendly w
 | **EaglerNodes** | Free EaglerCraft hosting and server-listing platform I built and ran. | ![EOL](https://img.shields.io/badge/EOL-red?style=flat-square) | [eagler.cc](https://eagler.cc) |
 | **CypherGuard** | In-browser encryption and decryption (AES-GCM 256, PBKDF2) with QR export and scanning. | ![Vanilla Web](https://img.shields.io/badge/-Vanilla%20Web-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://cg.bbnerds.com) · [Source](https://github.com/malindidev/CypherGuard) |
 | **Image-To-Text** | Extract text from images via upload, paste or camera. Runs fully client-side. | ![Vanilla Web](https://img.shields.io/badge/-Vanilla%20Web-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://itt.bbnerds.com) · [Source](https://github.com/malindidev/Image-To-Text) |
+| **EnderEye** | Live status checker for any Minecraft Java or Bedrock server: players, latency, version and MOTD. | ![Vanilla Web](https://img.shields.io/badge/-Vanilla%20Web-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://ee.bbnerds.com) · [Source](https://github.com/malindidev/EnderEye) |
 | **FrameScratch** | Turn any video into a Scratch costume pack, right in your browser. | ![Next.js](https://img.shields.io/badge/-Next.js%20%2B%20TS-000000?style=flat-square&logo=nextdotjs&logoColor=white) | [Demo](https://frame.bbnerds.com) · [Source](https://github.com/malindidev/FrameScratch) |
 
 ---
