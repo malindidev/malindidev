@@ -19,12 +19,12 @@ I'm just him. I build and run servers, Discord bots and small privacy-friendly w
 
 ## 🚀 Projects
 
-| Project | Description | Status / Stack | Links |
+| Project | Description | Stack / Status | Links |
 | :--- | :--- | :--- | :--- |
 | **EaglerNodes** | Free EaglerCraft hosting and server-listing platform I built and ran. | ![EOL](https://img.shields.io/badge/EOL-red?style=flat-square) | [eagler.cc](https://eagler.cc) |
-| **CypherGuard** | In-browser encryption and decryption (AES-GCM 256, PBKDF2) with QR export and scanning. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://cg.bbnerds.com) · [Source](https://github.com/malindidev/CypherGuard) |
-| **Image-To-Text** | Extract text from images via upload, paste or camera. Runs fully client-side. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://itt.bbnerds.com) · [Source](https://github.com/malindidev/Image-To-Text) |
-| **FrameScratch** | Turn any video into a Scratch costume pack, right in your browser. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | [Demo](https://frame.bbnerds.com) · [Source](https://github.com/malindidev/FrameScratch) |
+| **CypherGuard** | In-browser encryption and decryption (AES-GCM 256, PBKDF2) with QR export and scanning. | ![Vanilla Web](https://img.shields.io/badge/-Vanilla%20Web-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://cg.bbnerds.com) · [Source](https://github.com/malindidev/CypherGuard) |
+| **Image-To-Text** | Extract text from images via upload, paste or camera. Runs fully client-side. | ![Vanilla Web](https://img.shields.io/badge/-Vanilla%20Web-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://itt.bbnerds.com) · [Source](https://github.com/malindidev/Image-To-Text) |
+| **FrameScratch** | Turn any video into a Scratch costume pack, right in your browser. | ![Next.js](https://img.shields.io/badge/-Next.js%20%2B%20TS-000000?style=flat-square&logo=nextdotjs&logoColor=white) | [Demo](https://frame.bbnerds.com) · [Source](https://github.com/malindidev/FrameScratch) |
 
 ---
 
