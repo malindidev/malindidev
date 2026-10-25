@@ -4,7 +4,7 @@
 
 I'm just him. I build and run servers, Discord bots and small privacy-friendly web tools.
 
-[![Website](https://img.shields.io/badge/Website-mal.bbnerds.com-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eagler.cc)
+[![Website](https://img.shields.io/badge/Website-eagler.cc-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eagler.cc)
 [![GitHub](https://img.shields.io/badge/GitHub-malindidev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malindidev)
 
 ---
